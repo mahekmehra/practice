@@ -1,1 +1,2 @@
 adding a line in file
+resolving a bug

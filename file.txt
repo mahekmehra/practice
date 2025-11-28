@@ -1,3 +1,4 @@
 adding a line in file
 resolving a bug
 added more features
+another bug solved
